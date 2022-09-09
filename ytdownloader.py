@@ -1,4 +1,7 @@
-#!/usr/bin/python
+# Date: 9 Sep. 2022
+# !/usr/bin/python
+# Author: hyper
+
 from keyword import kwlist
 import pytube
 import math
